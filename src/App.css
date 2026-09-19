@@ -809,3 +809,11 @@ body::after {
   color: #888;
   font-size: 13px;
 }
+/* Ajustes de texto para móvil */
+
+h1,
+h2,
+.form-header h2 {
+  color: #ffffff;
+  -webkit-text-fill-color: #ffffff;
+}
